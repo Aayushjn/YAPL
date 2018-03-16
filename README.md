@@ -1,5 +1,6 @@
 # YAPL
 Interpreter for a given programming language using Yacc and Lex
+This interpreter was written as an assignment under IT253 course
 
 To simply run the compiler, type ./yapl in your terminal.
 
